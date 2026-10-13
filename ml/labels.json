@@ -1,0 +1,5 @@
+{
+  "categories": ["Important", "Study", "Career", "Personal", "Shopping", "Other"],
+  "priorities": ["Critical", "High", "Medium", "Low"],
+  "urgencies": ["Immediate", "Soon", "When convenient"]
+}

@@ -1,0 +1,5 @@
+{"title": "Suspicious transaction", "body": "Unrecognized debit of ₹5,000 attempted on your card.", "category": "IMPORTANT", "priority": "CRITICAL", "urgency": "IMMEDIATE"}
+{"title": "Class canceled", "body": "Today's morning lecture for Data Structures has been postponed.", "category": "STUDY", "priority": "MEDIUM", "urgency": "SOON"}
+{"title": "Job offer letter", "body": "Congratulations! Your offer letter for Software Engineer is attached.", "category": "CAREER", "priority": "HIGH", "urgency": "IMMEDIATE"}
+{"title": "Flash deal", "body": "Use coupon SAVE20 for an extra 20% off your cart today.", "category": "SHOPPING", "priority": "LOW", "urgency": "WHEN_CONVENIENT"}
+{"title": "Family dinner reminder", "body": "Don't forget mom's birthday gathering this weekend.", "category": "PERSONAL", "priority": "MEDIUM", "urgency": "WHEN_CONVENIENT"}

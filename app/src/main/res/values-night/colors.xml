@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Palette (Neon Smart Inbox) -->
+    <color name="colorPrimary">#8057FF</color>
+    <color name="colorPrimaryDark">#7C5CFC</color>
+    <color name="colorSecondary">#A56BFF</color>
+    <color name="colorVividBlue">#8057FF</color>
+    <color name="colorMainBackground">#080A18</color>
+    <color name="colorSecondaryBackground">#171A35</color>
+    <color name="colorSurface">#101329</color>
+    <color name="colorGlassPrimary">#171A35</color>
+    <color name="colorGlassSecondary">#101329</color>
+    <color name="colorGlassBorder">#293866</color>
+
+    <color name="colorPrimaryText">#F6F7FF</color>
+    <color name="colorSecondaryText">#A9B4E8</color>
+    <color name="colorMutedText">#89829F</color>
+    <color name="colorBorder">#293866</color>
+
+    <color name="colorSuccess">#65D6A3</color>
+    <color name="colorWarning">#FFC56E</color>
+    <color name="colorCritical">#FF7C9C</color>
+
+    <!-- Semantic Category Colors (Dark) -->
+    <color name="categoryImportant">#FF7C9C</color>
+    <color name="categoryStudy">#79D8FF</color>
+    <color name="categoryCareer">#A56BFF</color>
+    <color name="categoryPersonal">#65D6A3</color>
+    <color name="categoryShopping">#FFC56E</color>
+    <color name="categoryOther">#A9B4E8</color>
+</resources>

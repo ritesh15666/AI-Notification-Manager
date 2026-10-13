@@ -1,0 +1,10 @@
+{"title": "Payment received", "body": "Your account has been credited with ₹2,500.", "category": "IMPORTANT", "priority": "HIGH", "urgency": "WHEN_CONVENIENT"}
+{"title": "Security alert", "body": "New sign-in detected from Chrome on Windows.", "category": "IMPORTANT", "priority": "CRITICAL", "urgency": "IMMEDIATE"}
+{"title": "Assignment submission reminder", "body": "Submit your assignment before tomorrow at 5 PM.", "category": "STUDY", "priority": "HIGH", "urgency": "SOON"}
+{"title": "Exam timetable published", "body": "Check the university portal for semester exam schedule.", "category": "STUDY", "priority": "MEDIUM", "urgency": "WHEN_CONVENIENT"}
+{"title": "Interview scheduled", "body": "Your interview is scheduled for tomorrow at 10:30 AM.", "category": "CAREER", "priority": "HIGH", "urgency": "SOON"}
+{"title": "Application status changed", "body": "Your job application has been shortlisted by TechCorp.", "category": "CAREER", "priority": "HIGH", "urgency": "WHEN_CONVENIENT"}
+{"title": "New message from Alex", "body": "Hey! Are we still meeting up for coffee at 4 PM?", "category": "PERSONAL", "priority": "MEDIUM", "urgency": "WHEN_CONVENIENT"}
+{"title": "Weekend sale is live", "body": "Get up to 50% off on electronics and fashion items.", "category": "SHOPPING", "priority": "LOW", "urgency": "WHEN_CONVENIENT"}
+{"title": "Order delivered", "body": "Your package #4829 has been successfully delivered.", "category": "SHOPPING", "priority": "MEDIUM", "urgency": "WHEN_CONVENIENT"}
+{"title": "Application update available", "body": "Version 2.4.1 is now available with bug fixes.", "category": "OTHER", "priority": "LOW", "urgency": "WHEN_CONVENIENT"}
